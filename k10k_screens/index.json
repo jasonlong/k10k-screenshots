@@ -1,0 +1,783 @@
+[
+  {
+    "title": "K10K (May 2002)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2002-05-24.png",
+    "requested_timestamp": "20020524153128",
+    "capture_timestamp": "20020524153128",
+    "requested_original_url": "http://k10k.net:80/",
+    "original_url": "http://k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20020524153128id_/http://k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2002,
+    "month": 5,
+    "day": 24,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "85c461b7c6ffbec1ae09dc997151b5f2d34cdb3e121abba8eb352a0563782a76"
+    }
+  },
+  {
+    "title": "K10K (June 2002)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2002-06-04.png",
+    "requested_timestamp": "20020604195928",
+    "capture_timestamp": "20020604195928",
+    "requested_original_url": "http://k10k.net:80/",
+    "original_url": "http://k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20020604195928id_/http://k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2002,
+    "month": 6,
+    "day": 4,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "8b30304426f29b2e3cf425f661008467463036599914bfffbdebd5997b41cbe8"
+    }
+  },
+  {
+    "title": "K10K (July 2002)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2002-07-20.png",
+    "requested_timestamp": "20020720015548",
+    "capture_timestamp": "20020720015548",
+    "requested_original_url": "http://k10k.net:80/",
+    "original_url": "http://k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20020720015548id_/http://k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2002,
+    "month": 7,
+    "day": 20,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "2974a1bf6025e77d7ae4107316749462ac56e1c0e9141ff1867f67060ca3ef84"
+    }
+  },
+  {
+    "title": "K10K (August 2002)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2002-08-02.png",
+    "requested_timestamp": "20020802063553",
+    "capture_timestamp": "20020802063553",
+    "requested_original_url": "http://www.k10k.net:80/",
+    "original_url": "http://www.k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20020802063553id_/http://www.k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2002,
+    "month": 8,
+    "day": 2,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "2974a1bf6025e77d7ae4107316749462ac56e1c0e9141ff1867f67060ca3ef84"
+    }
+  },
+  {
+    "title": "K10K (September 2002)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2002-09-25.png",
+    "requested_timestamp": "20020925004356",
+    "capture_timestamp": "20020925004356",
+    "requested_original_url": "http://k10k.net:80/",
+    "original_url": "http://k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20020925004356id_/http://k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2002,
+    "month": 9,
+    "day": 25,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "2974a1bf6025e77d7ae4107316749462ac56e1c0e9141ff1867f67060ca3ef84"
+    }
+  },
+  {
+    "title": "K10K (October 2002)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2002-10-03.png",
+    "requested_timestamp": "20021003220728",
+    "capture_timestamp": "20021003220728",
+    "requested_original_url": "http://k10k.net:80/",
+    "original_url": "http://k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20021003220728id_/http://k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2002,
+    "month": 10,
+    "day": 3,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "2974a1bf6025e77d7ae4107316749462ac56e1c0e9141ff1867f67060ca3ef84"
+    }
+  },
+  {
+    "title": "K10K (November 2002)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2002-11-02.png",
+    "requested_timestamp": "20021102152643",
+    "capture_timestamp": "20021102152643",
+    "requested_original_url": "http://www.k10k.net:80/",
+    "original_url": "http://www.k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20021102152643id_/http://www.k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2002,
+    "month": 11,
+    "day": 2,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "c7429e2193059bdb035b4dad21b013887748aac6bf8b6fe141a3d977ab4071b7"
+    }
+  },
+  {
+    "title": "K10K (January 2003)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2003-01-24.png",
+    "requested_timestamp": "20030124121239",
+    "capture_timestamp": "20030124121239",
+    "requested_original_url": "http://k10k.net:80/",
+    "original_url": "http://k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20030124121239id_/http://k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2003,
+    "month": 1,
+    "day": 24,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "f02ed9a4754f7d3f14fc0295d3e42d8a6aaac39162f6d24308ee7e73f0978709"
+    }
+  },
+  {
+    "title": "K10K (February 2003)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2003-02-07.png",
+    "requested_timestamp": "20030207162038",
+    "capture_timestamp": "20030207162038",
+    "requested_original_url": "http://www.k10k.net:80/",
+    "original_url": "http://www.k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20030207162038id_/http://www.k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2003,
+    "month": 2,
+    "day": 7,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "f02ed9a4754f7d3f14fc0295d3e42d8a6aaac39162f6d24308ee7e73f0978709"
+    }
+  },
+  {
+    "title": "K10K (April 2003)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2003-04-01.png",
+    "requested_timestamp": "20030401121006",
+    "capture_timestamp": "20030401121006",
+    "requested_original_url": "http://www.k10k.net:80/",
+    "original_url": "http://www.k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20030401121006id_/http://www.k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2003,
+    "month": 4,
+    "day": 1,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "f02ed9a4754f7d3f14fc0295d3e42d8a6aaac39162f6d24308ee7e73f0978709"
+    }
+  },
+  {
+    "title": "K10K (June 2003)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2003-06-02.png",
+    "requested_timestamp": "20030602151356",
+    "capture_timestamp": "20030602151356",
+    "requested_original_url": "http://www.k10k.net:80/",
+    "original_url": "http://www.k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20030602151356id_/http://www.k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2003,
+    "month": 6,
+    "day": 2,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "12afe8bfcfa527ec142998e8b164a349979de16d69f34580495e94537069dd0e"
+    }
+  },
+  {
+    "title": "K10K (July 2003)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2003-07-20.png",
+    "requested_timestamp": "20030720143930",
+    "capture_timestamp": "20030720143930",
+    "requested_original_url": "http://k10k.net:80/",
+    "original_url": "http://k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20030720143930id_/http://k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2003,
+    "month": 7,
+    "day": 20,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "db32f0c2a533bf99cf4932d22c679677604b8fec50988536dc806571fc4f2ddc"
+    }
+  },
+  {
+    "title": "K10K (August 2003)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2003-08-04.png",
+    "requested_timestamp": "20030804194428",
+    "capture_timestamp": "20030804194428",
+    "requested_original_url": "http://k10k.net:80/",
+    "original_url": "http://k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20030804194428id_/http://k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2003,
+    "month": 8,
+    "day": 4,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "1e59a080afd65804c4dc4f7c076854f1fca2996293c00950fff7669ee6bc49b1"
+    }
+  },
+  {
+    "title": "K10K (September 2003)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2003-09-20.png",
+    "requested_timestamp": "20030920022415",
+    "capture_timestamp": "20030920022415",
+    "requested_original_url": "http://k10k.net:80/",
+    "original_url": "http://k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20030920022415id_/http://k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2003,
+    "month": 9,
+    "day": 20,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "1e59a080afd65804c4dc4f7c076854f1fca2996293c00950fff7669ee6bc49b1"
+    }
+  },
+  {
+    "title": "K10K (October 2003)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2003-10-04.png",
+    "requested_timestamp": "20031004024435",
+    "capture_timestamp": "20031004024435",
+    "requested_original_url": "http://k10k.net:80/",
+    "original_url": "http://k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20031004024435id_/http://k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2003,
+    "month": 10,
+    "day": 4,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "1e59a080afd65804c4dc4f7c076854f1fca2996293c00950fff7669ee6bc49b1"
+    }
+  },
+  {
+    "title": "K10K (November 2003)",
+    "description": "Captured from the Wayback Machine. These images document K10K\u2019s homepage during the early web design era. Source preserved via the Internet Archive.",
+    "file": "k10k-2003-11-30.png",
+    "requested_timestamp": "20031130172102",
+    "capture_timestamp": "20031130172102",
+    "requested_original_url": "http://k10k.net:80/",
+    "original_url": "http://k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20031130172102id_/http://k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2003,
+    "month": 11,
+    "day": 30,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "16efb9b6d1148e6c93b4e3a570643db66544f98f1cad8a8be733838da4262213"
+    }
+  },
+  {
+    "title": "K10K (December 2003)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2003-12-20.png",
+    "requested_timestamp": "20031220215423",
+    "capture_timestamp": "20031220215423",
+    "requested_original_url": "http://www.k10k.net:80/",
+    "original_url": "http://www.k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20031220215423id_/http://www.k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2003,
+    "month": 12,
+    "day": 20,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "fad7d673fed7f95f5463ca2be030fa56f337c6dbcf884ac85307c92897fa464b"
+    }
+  },
+  {
+    "title": "K10K (January 2004)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2004-01-01.png",
+    "requested_timestamp": "20040101121327",
+    "capture_timestamp": "20040101121327",
+    "requested_original_url": "http://k10k.net:80/",
+    "original_url": "http://k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20040101121327id_/http://k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2004,
+    "month": 1,
+    "day": 1,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "fad7d673fed7f95f5463ca2be030fa56f337c6dbcf884ac85307c92897fa464b"
+    }
+  },
+  {
+    "title": "K10K (February 2004)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2004-02-06.png",
+    "requested_timestamp": "20040206163333",
+    "capture_timestamp": "20040206163333",
+    "requested_original_url": "http://k10k.net:80/",
+    "original_url": "http://k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20040206163333id_/http://k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2004,
+    "month": 2,
+    "day": 6,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "fad7d673fed7f95f5463ca2be030fa56f337c6dbcf884ac85307c92897fa464b"
+    }
+  },
+  {
+    "title": "K10K (March 2004)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2004-03-04.png",
+    "requested_timestamp": "20040304124812",
+    "capture_timestamp": "20040304124812",
+    "requested_original_url": "http://www.k10k.net:80/",
+    "original_url": "http://www.k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20040304124812id_/http://www.k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2004,
+    "month": 3,
+    "day": 4,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "fad7d673fed7f95f5463ca2be030fa56f337c6dbcf884ac85307c92897fa464b"
+    }
+  },
+  {
+    "title": "K10K (April 2004)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2004-04-15.png",
+    "requested_timestamp": "20040402164758",
+    "capture_timestamp": "20040415092753",
+    "requested_original_url": "http://www.k10k.net:80/",
+    "original_url": "http://www.k10k.net/",
+    "wayback_url": "https://web.archive.org/web/20040415092753/http://www.k10k.net/",
+    "fallback_reason": "month-fallback",
+    "year": 2004,
+    "month": 4,
+    "day": 15,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "b1b48089ed59d86d1047241669c5bdad3b43055294c514cfc63b7bee875db283"
+    }
+  },
+  {
+    "title": "K10K (June 2004)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2004-06-02.png",
+    "requested_timestamp": "20040602104857",
+    "capture_timestamp": "20040602104857",
+    "requested_original_url": "http://www.k10k.net:80/",
+    "original_url": "http://www.k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20040602104857id_/http://www.k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2004,
+    "month": 6,
+    "day": 2,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "53944d88b59ed82c141d9dee24880a0f46d14c8c88c0d8f7d8d7e78b25c64e01"
+    }
+  },
+  {
+    "title": "K10K (July 2004)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2004-07-02.png",
+    "requested_timestamp": "20040702225223",
+    "capture_timestamp": "20040702225223",
+    "requested_original_url": "http://k10k.net:80/",
+    "original_url": "http://k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20040702225223id_/http://k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2004,
+    "month": 7,
+    "day": 2,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "82baa2b370d6827ed947f533bcc73556a42b49c8e75a6afaaef34665712733e9"
+    }
+  },
+  {
+    "title": "K10K (August 2004)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2004-08-02.png",
+    "requested_timestamp": "20040802042349",
+    "capture_timestamp": "20040802042349",
+    "requested_original_url": "http://www.k10k.net:80/",
+    "original_url": "http://www.k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20040802042349id_/http://www.k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2004,
+    "month": 8,
+    "day": 2,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "1901b5819b4cee4368a886dc277ca943c6cfaf7a885c353a0ddd1544760be0e4"
+    }
+  },
+  {
+    "title": "K10K (September 2004)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2004-09-01.png",
+    "requested_timestamp": "20040901054210",
+    "capture_timestamp": "20040901054210",
+    "requested_original_url": "http://www.k10k.net:80/",
+    "original_url": "http://www.k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20040901054210id_/http://www.k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2004,
+    "month": 9,
+    "day": 1,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "1901b5819b4cee4368a886dc277ca943c6cfaf7a885c353a0ddd1544760be0e4"
+    }
+  },
+  {
+    "title": "K10K (October 2004)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2004-10-01.png",
+    "requested_timestamp": "20041001082151",
+    "capture_timestamp": "20041001082151",
+    "requested_original_url": "http://www.k10k.net:80/",
+    "original_url": "http://www.k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20041001082151id_/http://www.k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2004,
+    "month": 10,
+    "day": 1,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "6a71c473b2b1127d56baaae4577f42ab156b7e7c8d3fc6d9fa4862a02e3f7be8"
+    }
+  },
+  {
+    "title": "K10K (November 2004)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2004-11-01.png",
+    "requested_timestamp": "20041101092037",
+    "capture_timestamp": "20041101092037",
+    "requested_original_url": "http://www.k10k.net:80/",
+    "original_url": "http://www.k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20041101092037id_/http://www.k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2004,
+    "month": 11,
+    "day": 1,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "e936d0ff3fa83b5b86ff24c5dc79c1ed0c4a107b4eba14285bd02b1e3f44e66e"
+    }
+  },
+  {
+    "title": "K10K (December 2004)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2004-12-04.png",
+    "requested_timestamp": "20041204084234",
+    "capture_timestamp": "20041204084234",
+    "requested_original_url": "http://www.k10k.net:80/",
+    "original_url": "http://www.k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20041204084234id_/http://www.k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2004,
+    "month": 12,
+    "day": 4,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "aa7314f1ee7100effcafbcdda7e65c3728827923cf87eed00e5a9e47f15c64de"
+    }
+  },
+  {
+    "title": "K10K (January 2005)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2005-01-02.png",
+    "requested_timestamp": "20050102090151",
+    "capture_timestamp": "20050102090151",
+    "requested_original_url": "http://www.k10k.net:80/",
+    "original_url": "http://www.k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20050102090151id_/http://www.k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2005,
+    "month": 1,
+    "day": 2,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "aa7314f1ee7100effcafbcdda7e65c3728827923cf87eed00e5a9e47f15c64de"
+    }
+  },
+  {
+    "title": "K10K (February 2005)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2005-02-03.png",
+    "requested_timestamp": "20050203015951",
+    "capture_timestamp": "20050203015951",
+    "requested_original_url": "http://www.k10k.net:80/",
+    "original_url": "http://www.k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20050203015951id_/http://www.k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2005,
+    "month": 2,
+    "day": 3,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "47c3d5a1305988c17baee7c1af4f3bd629ba5d08d48cda02711cab2b2dcacb04"
+    }
+  },
+  {
+    "title": "K10K (March 2005)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2005-03-01.png",
+    "requested_timestamp": "20050301040902",
+    "capture_timestamp": "20050301040902",
+    "requested_original_url": "http://k10k.net:80/",
+    "original_url": "http://k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20050301040902id_/http://k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2005,
+    "month": 3,
+    "day": 1,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "47c3d5a1305988c17baee7c1af4f3bd629ba5d08d48cda02711cab2b2dcacb04"
+    }
+  },
+  {
+    "title": "K10K (April 2005)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2005-04-03.png",
+    "requested_timestamp": "20050403034831",
+    "capture_timestamp": "20050403034831",
+    "requested_original_url": "http://www.k10k.net:80/",
+    "original_url": "http://www.k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20050403034831id_/http://www.k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2005,
+    "month": 4,
+    "day": 3,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "0e52aece16990991fa22615415e57cc365c7026425a2f12bc5ed84affdce3335"
+    }
+  },
+  {
+    "title": "K10K (May 2005)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2005-05-07.png",
+    "requested_timestamp": "20050507054117",
+    "capture_timestamp": "20050507054117",
+    "requested_original_url": "http://k10k.net:80/",
+    "original_url": "http://k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20050507054117id_/http://k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2005,
+    "month": 5,
+    "day": 7,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "0e52aece16990991fa22615415e57cc365c7026425a2f12bc5ed84affdce3335"
+    }
+  },
+  {
+    "title": "K10K (June 2005)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2005-06-02.png",
+    "requested_timestamp": "20050602002249",
+    "capture_timestamp": "20050602002249",
+    "requested_original_url": "http://k10k.net:80/",
+    "original_url": "http://k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20050602002249id_/http://k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2005,
+    "month": 6,
+    "day": 2,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "dc4535b277cd171d0bc41165ccb5f47cb16dbe1eac9486568e66aad954cac76b"
+    }
+  },
+  {
+    "title": "K10K (July 2005)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2005-07-01.png",
+    "requested_timestamp": "20050701031022",
+    "capture_timestamp": "20050701031022",
+    "requested_original_url": "http://www.k10k.net:80/",
+    "original_url": "http://www.k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20050701031022id_/http://www.k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2005,
+    "month": 7,
+    "day": 1,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "dc4535b277cd171d0bc41165ccb5f47cb16dbe1eac9486568e66aad954cac76b"
+    }
+  },
+  {
+    "title": "K10K (August 2005)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2005-08-01.png",
+    "requested_timestamp": "20050801001841",
+    "capture_timestamp": "20050801001841",
+    "requested_original_url": "http://www.k10k.net:80/",
+    "original_url": "http://www.k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20050801001841id_/http://www.k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2005,
+    "month": 8,
+    "day": 1,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "390b9703b02f4a0ed6b5d1597a3717a2a42678b9f6f9f17ee076f3d4ba4a6232"
+    }
+  },
+  {
+    "title": "K10K (September 2005)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2005-09-01.png",
+    "requested_timestamp": "20050901023741",
+    "capture_timestamp": "20050901023741",
+    "requested_original_url": "http://www.k10k.net:80/",
+    "original_url": "http://www.k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20050901023741id_/http://www.k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2005,
+    "month": 9,
+    "day": 1,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "6202a670232749549e6f69c43ed79605a924372964274020eb7d503ac574018a"
+    }
+  },
+  {
+    "title": "K10K (October 2005)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2005-10-01.png",
+    "requested_timestamp": "20051001060506",
+    "capture_timestamp": "20051001060506",
+    "requested_original_url": "http://k10k.net:80/",
+    "original_url": "http://k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20051001060506id_/http://k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2005,
+    "month": 10,
+    "day": 1,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "3aa5859849d20bd5aff4dd89c4265849d9eb69e6de241c3b9deb7388337bad82"
+    }
+  },
+  {
+    "title": "K10K (November 2005)",
+    "description": "Captured from the Wayback Machine.",
+    "file": "k10k-2005-11-01.png",
+    "requested_timestamp": "20051101005617",
+    "capture_timestamp": "20051101005617",
+    "requested_original_url": "http://www.k10k.net:80/",
+    "original_url": "http://www.k10k.net:80/",
+    "wayback_url": "https://web.archive.org/web/20051101005617id_/http://www.k10k.net:80/",
+    "fallback_reason": "ts-exact",
+    "year": 2005,
+    "month": 11,
+    "day": 1,
+    "screenshot": {
+      "viewport_width": 1024,
+      "viewport_height": 1200,
+      "full_page": false,
+      "sha256": "1cdc2a0e9713cc4a471598f53cc556b29e657b0bee3337000764737959043085"
+    }
+  }
+]
+
